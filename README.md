@@ -1,4 +1,4 @@
-# IBM GitHub 101
+# GitHub 101 for physicist
 
 Introductory GitHub repository for newbies using GitHub for the first time
 
